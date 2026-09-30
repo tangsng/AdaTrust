@@ -1,0 +1,615 @@
+{
+ "R1": {
+  "authors": [
+   "M. Castro",
+   "B. Liskov"
+  ],
+  "title": "Practical byzantine fault tolerance and proactive recovery",
+  "venue": "ACM Transactions on Computer Systems",
+  "volume": "20",
+  "issue": "4",
+  "pages": "398-461",
+  "year": 2002,
+  "doi": "10.1145/571637.571640",
+  "ieee_authors": "M. Castro, B. Liskov"
+ },
+ "R2": {
+  "authors": [
+   "M. Yin",
+   "D. Malkhi",
+   "M. K. Reiter",
+   "G. G. Gueta",
+   "I. Abraham"
+  ],
+  "title": "HotStuff",
+  "venue": "Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing",
+  "volume": "",
+  "issue": "",
+  "pages": "347-356",
+  "year": 2019,
+  "doi": "10.1145/3293611.3331591",
+  "ieee_authors": "M. Yin, D. Malkhi, M. K. Reiter, G. G. Gueta, I. Abraham"
+ },
+ "R3": {
+  "authors": [
+   "J. Schulman",
+   "F. Wolski",
+   "P. Dhariwal",
+   "A. Radford",
+   "O. Klimov"
+  ],
+  "title": "Proximal Policy Optimization Algorithms",
+  "venue": "arXiv",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "year": 2017,
+  "doi": "10.48550/arXiv.1707.06347",
+  "ieee_authors": "J. Schulman, F. Wolski, P. Dhariwal, A. Radford, O. Klimov"
+ },
+ "R4": {
+  "authors": [
+   "S. Islam",
+   "M. J. Islam",
+   "M. Hossain",
+   "S. Noor",
+   "K. S. Kwak",
+   "S. M. R. Islam"
+  ],
+  "title": "A Survey on Consensus Algorithms in Blockchain-Based Applications: Architecture, Taxonomy, and Operational Issues",
+  "venue": "IEEE Access",
+  "volume": "11",
+  "issue": "",
+  "pages": "39066-39082",
+  "year": 2023,
+  "doi": "10.1109/ACCESS.2023.3267047",
+  "ieee_authors": "S. Islam, M. J. Islam, M. Hossain, S. Noor, K. S. Kwak, S. M. R. Islam"
+ },
+ "R5": {
+  "authors": [
+   "L. Ge",
+   "J. Wang",
+   "G. Zhang"
+  ],
+  "title": "Survey of Consensus Algorithms for Proof of Stake in Blockchain",
+  "venue": "Security and Communication Networks",
+  "volume": "2022",
+  "issue": "",
+  "pages": "1-13",
+  "year": 2022,
+  "doi": "10.1155/2022/2812526",
+  "ieee_authors": "L. Ge, J. Wang, G. Zhang"
+ },
+ "R6": {
+  "authors": [
+   "G. Danezis",
+   "L. Kokoris-Kogias",
+   "A. Sonnino",
+   "A. Spiegelman"
+  ],
+  "title": "Narwhal and Tusk",
+  "venue": "Proceedings of the Seventeenth European Conference on Computer Systems",
+  "volume": "",
+  "issue": "",
+  "pages": "34-50",
+  "year": 2022,
+  "doi": "10.1145/3492321.3519594",
+  "ieee_authors": "G. Danezis, L. Kokoris-Kogias, A. Sonnino, A. Spiegelman"
+ },
+ "R7": {
+  "authors": [
+   "A. Spiegelman",
+   "N. Giridharan",
+   "A. Sonnino",
+   "L. Kokoris-Kogias"
+  ],
+  "title": "Bullshark",
+  "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+  "volume": "",
+  "issue": "",
+  "pages": "2705-2718",
+  "year": 2022,
+  "doi": "10.1145/3548606.3559361",
+  "ieee_authors": "A. Spiegelman, N. Giridharan, A. Sonnino, L. Kokoris-Kogias"
+ },
+ "R8": {
+  "authors": [
+   "R. Gelashvili",
+   "L. Kokoris-Kogias",
+   "A. Sonnino",
+   "A. Spiegelman",
+   "Z. Xiang"
+  ],
+  "title": "Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback",
+  "venue": "Lecture Notes in Computer Science",
+  "volume": "",
+  "issue": "",
+  "pages": "296-315",
+  "year": 2022,
+  "doi": "10.1007/978-3-031-18283-9_14",
+  "ieee_authors": "R. Gelashvili, L. Kokoris-Kogias, A. Sonnino, A. Spiegelman, Z. Xiang"
+ },
+ "R9": {
+  "authors": [
+   "L. Qiu",
+   "J. Xiao",
+   "Z. Shao"
+  ],
+  "title": "Mechanized Safety and Liveness Proofs for the Mysticeti Consensus Protocol Under the LiDO-DAG Framework",
+  "venue": "2026 IEEE Symposium on Security and Privacy (SP)",
+  "volume": "",
+  "issue": "",
+  "pages": "1842-1861",
+  "year": 2026,
+  "doi": "10.1109/SP63933.2026.00009",
+  "ieee_authors": "L. Qiu, J. Xiao, Z. Shao"
+ },
+ "R10": {
+  "authors": [
+   "Y. Gao",
+   "Y. Lu",
+   "Z. Lu",
+   "Q. Tang",
+   "J. Xu",
+   "Z. Zhang"
+  ],
+  "title": "Dumbo-NG",
+  "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+  "volume": "",
+  "issue": "",
+  "pages": "1187-1201",
+  "year": 2022,
+  "doi": "10.1145/3548606.3559379",
+  "ieee_authors": "Y. Gao, Y. Lu, Z. Lu, Q. Tang, J. Xu, Z. Zhang"
+ },
+ "R11": {
+  "authors": [
+   "K. Hwerbi",
+   "I. Amdouni",
+   "C. Adjih",
+   "L. A. Saidane",
+   "A. Laouiti"
+  ],
+  "title": "Delay analysis of BFT consensus : Case study of Narwhal and Bullshark protocols",
+  "venue": "Computer Communications",
+  "volume": "242",
+  "issue": "",
+  "pages": "108278",
+  "year": 2025,
+  "doi": "10.1016/j.comcom.2025.108278",
+  "ieee_authors": "K. Hwerbi, I. Amdouni, C. Adjih, L. A. Saidane, A. Laouiti"
+ },
+ "R12": {
+  "authors": [
+   "H. Yin",
+   "C. Zhou",
+   "W. Wen",
+   "Y. Liu"
+  ],
+  "title": "Fountain: DAG-Based Separate BFT Consensus Made Hashgraph Practical",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "volume": "22",
+  "issue": "5",
+  "pages": "4126-4136",
+  "year": 2025,
+  "doi": "10.1109/TNSM.2025.3576128",
+  "ieee_authors": "H. Yin, C. Zhou, W. Wen, Y. Liu"
+ },
+ "R13": {
+  "authors": [
+   "C. Hou",
+   "M. Zhou",
+   "Y. Ji",
+   "P. Daian",
+   "F. Tramèr",
+   "G. Fanti",
+   "A. Juels"
+  ],
+  "title": "SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning",
+  "venue": "Proceedings 2021 Network and Distributed System Security Symposium",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "year": 2021,
+  "doi": "10.14722/ndss.2021.24188",
+  "ieee_authors": "C. Hou, M. Zhou, Y. Ji, P. Daian, F. Tramèr, G. Fanti, et al."
+ },
+ "R14": {
+  "authors": [
+   "C. Berger",
+   "H. P. Reiser",
+   "J. Sousa",
+   "A. Bessani"
+  ],
+  "title": "AWARE: Adaptive Wide-Area Replication for Fast and Resilient Byzantine Consensus",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "volume": "19",
+  "issue": "3",
+  "pages": "1605-1620",
+  "year": 2022,
+  "doi": "10.1109/TDSC.2020.3030605",
+  "ieee_authors": "C. Berger, H. P. Reiser, J. Sousa, A. Bessani"
+ },
+ "R15": {
+  "authors": [
+   "C. Li",
+   "W. Qiu",
+   "X. Li",
+   "C. Liu",
+   "Z. Zheng"
+  ],
+  "title": "A Dynamic Adaptive Framework for Practical Byzantine Fault Tolerance Consensus Protocol in the Internet of Things",
+  "venue": "IEEE Transactions on Computers",
+  "volume": "73",
+  "issue": "7",
+  "pages": "1669-1682",
+  "year": 2024,
+  "doi": "10.1109/TC.2024.3377921",
+  "ieee_authors": "C. Li, W. Qiu, X. Li, C. Liu, Z. Zheng"
+ },
+ "R16": {
+  "authors": [
+   "N. Diallo",
+   "L. Xu",
+   "D. Alsagheer",
+   "Y. Lu",
+   "L. Shi"
+  ],
+  "title": "Optimized Consensus with DAGWise: A GNN-Enhanced Approach for Scalable and Fault-Tolerant DAG-Based BFT",
+  "venue": "2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+  "volume": "",
+  "issue": "",
+  "pages": "1-5",
+  "year": 2025,
+  "doi": "10.1109/ICBC64466.2025.11114520",
+  "ieee_authors": "N. Diallo, L. Xu, D. Alsagheer, Y. Lu, L. Shi"
+ },
+ "R17": {
+  "authors": [
+   "H. Chen",
+   "X. Fu",
+   "Q. Yuan",
+   "Z. Zhuang",
+   "J. Kang",
+   "Z. Liu",
+   "J. Wang",
+   "D. Niyato"
+  ],
+  "title": "Trust Model-Based Consensus Optimization for Vehicle Platooning Networks: A Novel Deep Reinforcement Learning Approach With GenAI",
+  "venue": "IEEE Transactions on Intelligent Transportation Systems",
+  "volume": "26",
+  "issue": "8",
+  "pages": "11356-11371",
+  "year": 2025,
+  "doi": "10.1109/TITS.2025.3559672",
+  "ieee_authors": "H. Chen, X. Fu, Q. Yuan, Z. Zhuang, J. Kang, Z. Liu, et al."
+ },
+ "R18": {
+  "authors": [
+   "C. Xu",
+   "P. Zhang",
+   "H. Yu",
+   "Y. Li"
+  ],
+  "title": "Dynamic Blockchain-Empowered Trustworthy End-Edge Collaborative Computing via Rotating Multi-Agent DRL",
+  "venue": "IEEE Transactions on Wireless Communications",
+  "volume": "24",
+  "issue": "6",
+  "pages": "4864-4878",
+  "year": 2025,
+  "doi": "10.1109/TWC.2025.3544478",
+  "ieee_authors": "C. Xu, P. Zhang, H. Yu, Y. Li"
+ },
+ "R19": {
+  "authors": [
+   "R. Gutierrez",
+   "W. Villegas-Ch",
+   "J. Govea"
+  ],
+  "title": "Adaptive consensus optimization in blockchain using reinforcement learning and validation in adversarial environments",
+  "venue": "Frontiers in Artificial Intelligence",
+  "volume": "8",
+  "issue": "",
+  "pages": "",
+  "year": 2025,
+  "doi": "10.3389/frai.2025.1672273",
+  "ieee_authors": "R. Gutierrez, W. Villegas-Ch, J. Govea"
+ },
+ "R20": {
+  "authors": [
+   "J. Chen",
+   "L. Shi",
+   "Q. Huang",
+   "T. Wang",
+   "D. He"
+  ],
+  "title": "On Designs of Decentralized Reputation Management for Permissioned Blockchain Networks",
+  "venue": "Computer Modeling in Engineering &amp; Sciences",
+  "volume": "139",
+  "issue": "2",
+  "pages": "1755-1773",
+  "year": 2024,
+  "doi": "10.32604/cmes.2023.046826",
+  "ieee_authors": "J. Chen, L. Shi, Q. Huang, T. Wang, D. He"
+ },
+ "R21": {
+  "authors": [
+   "C. C. Rawlins",
+   "S. Jagannathan",
+   "V. S. S. Nadendla"
+  ],
+  "title": "A Reputation System for Provably-Robust Decision Making in IoT Blockchain Networks",
+  "venue": "IEEE Internet of Things Journal",
+  "volume": "11",
+  "issue": "8",
+  "pages": "14088-14099",
+  "year": 2024,
+  "doi": "10.1109/JIOT.2023.3340974",
+  "ieee_authors": "C. C. Rawlins, S. Jagannathan, V. S. S. Nadendla"
+ },
+ "R22": {
+  "authors": [
+   "C. Huang",
+   "Z. Wang",
+   "H. Chen",
+   "Q. Hu",
+   "Q. Zhang",
+   "W. Wang",
+   "X. Guan"
+  ],
+  "title": "RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding",
+  "venue": "IEEE Internet of Things Journal",
+  "volume": "8",
+  "issue": "6",
+  "pages": "4291-4304",
+  "year": 2021,
+  "doi": "10.1109/JIOT.2020.3028449",
+  "ieee_authors": "C. Huang, Z. Wang, H. Chen, Q. Hu, Q. Zhang, W. Wang, et al."
+ },
+ "R23": {
+  "authors": [
+   "M. Zhang",
+   "J. Li",
+   "Z. Chen",
+   "H. Chen",
+   "X. Deng"
+  ],
+  "title": "An Efficient and Robust Committee Structure for Sharding Blockchain",
+  "venue": "IEEE Transactions on Cloud Computing",
+  "volume": "11",
+  "issue": "3",
+  "pages": "2562-2574",
+  "year": 2023,
+  "doi": "10.1109/TCC.2022.3217856",
+  "ieee_authors": "M. Zhang, J. Li, Z. Chen, H. Chen, X. Deng"
+ },
+ "R24": {
+  "authors": [
+   "X. Chen",
+   "G. Xue",
+   "R. Yu",
+   "H. Wu",
+   "D. Wang"
+  ],
+  "title": "A Vehicular Trust Blockchain Framework With Scalable Byzantine Consensus",
+  "venue": "IEEE Transactions on Mobile Computing",
+  "volume": "23",
+  "issue": "5",
+  "pages": "4440-4452",
+  "year": 2024,
+  "doi": "10.1109/TMC.2023.3294968",
+  "ieee_authors": "X. Chen, G. Xue, R. Yu, H. Wu, D. Wang"
+ },
+ "R25": {
+  "authors": [
+   "X. Wang",
+   "Y. Guan"
+  ],
+  "title": "A Hierarchy Byzantine Fault Tolerance Consensus Protocol Based on Node Reputation",
+  "venue": "Sensors",
+  "volume": "22",
+  "issue": "15",
+  "pages": "5887",
+  "year": 2022,
+  "doi": "10.3390/s22155887",
+  "ieee_authors": "X. Wang, Y. Guan"
+ },
+ "R26": {
+  "authors": [
+   "H. Qin",
+   "Y. Guan"
+  ],
+  "title": "Joint Reputation Based Grouping and Hierarchical Byzantine Fault Tolerance Consensus Protocol",
+  "venue": "IEEE Access",
+  "volume": "11",
+  "issue": "",
+  "pages": "90335-90344",
+  "year": 2023,
+  "doi": "10.1109/ACCESS.2023.3305375",
+  "ieee_authors": "H. Qin, Y. Guan"
+ },
+ "R27": {
+  "authors": [
+   "J. Qi",
+   "Y. Guan"
+  ],
+  "title": "Practical Byzantine fault tolerance consensus based on comprehensive reputation",
+  "venue": "Peer-to-Peer Networking and Applications",
+  "volume": "16",
+  "issue": "1",
+  "pages": "420-430",
+  "year": 2023,
+  "doi": "10.1007/s12083-022-01408-2",
+  "ieee_authors": "J. Qi, Y. Guan"
+ },
+ "R28": {
+  "authors": [
+   "J. Wu",
+   "C. Xia",
+   "Q. Chen",
+   "H. Yan"
+  ],
+  "title": "Reputation-Enhanced Leader Election for Blockchain Consensus",
+  "venue": "2025 IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS)",
+  "volume": "",
+  "issue": "",
+  "pages": "1-6",
+  "year": 2025,
+  "doi": "10.1109/ICBCTIS66509.2025.11387282",
+  "ieee_authors": "J. Wu, C. Xia, Q. Chen, H. Yan"
+ },
+ "R29": {
+  "authors": [
+   "P. Drineas",
+   "R. Nema",
+   "R. Ostrovsky",
+   "V. Zikas"
+  ],
+  "title": "Game of Trust: How Trustworthy Does Your Blockchain Think You Are?",
+  "venue": "arXiv",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "year": 2025,
+  "doi": "10.48550/arXiv.2505.14551",
+  "ieee_authors": "P. Drineas, R. Nema, R. Ostrovsky, V. Zikas"
+ },
+ "R30": {
+  "authors": [
+   "S. Alam",
+   "S. Zardari",
+   "J. A. Shamsi"
+  ],
+  "title": "Blockchain-Based Trust and Reputation Management in SIoT",
+  "venue": "Electronics",
+  "volume": "11",
+  "issue": "23",
+  "pages": "3871",
+  "year": 2022,
+  "doi": "10.3390/electronics11233871",
+  "ieee_authors": "S. Alam, S. Zardari, J. A. Shamsi"
+ },
+ "R31": {
+  "authors": [
+   "G. Dharma Putra",
+   "C. Kang",
+   "S. S. Kanhere",
+   "J. Won-Ki Hong"
+  ],
+  "title": "DeTRM: Decentralised Trust and Reputation Management for Blockchain-based Supply Chains",
+  "venue": "2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+  "volume": "",
+  "issue": "",
+  "pages": "1-5",
+  "year": 2022,
+  "doi": "10.1109/ICBC54727.2022.9805565",
+  "ieee_authors": "G. Dharma Putra, C. Kang, S. S. Kanhere, J. Won-Ki Hong"
+ },
+ "R32": {
+  "authors": [
+   "W. Issa",
+   "N. Moustafa",
+   "B. Turnbull",
+   "N. Sohrabi",
+   "Z. Tari"
+  ],
+  "title": "Blockchain-Based Federated Learning for Securing Internet of Things: A Comprehensive Survey",
+  "venue": "ACM Computing Surveys",
+  "volume": "55",
+  "issue": "9",
+  "pages": "1-43",
+  "year": 2023,
+  "doi": "10.1145/3560816",
+  "ieee_authors": "W. Issa, N. Moustafa, B. Turnbull, N. Sohrabi, Z. Tari"
+ },
+ "R33": {
+  "authors": [
+   "D. Ressi",
+   "R. Romanello",
+   "C. Piazza",
+   "S. Rossi"
+  ],
+  "title": "AI-enhanced blockchain technology: A review of advancements and opportunities",
+  "venue": "Journal of Network and Computer Applications",
+  "volume": "225",
+  "issue": "",
+  "pages": "103858",
+  "year": 2024,
+  "doi": "10.1016/j.jnca.2024.103858",
+  "ieee_authors": "D. Ressi, R. Romanello, C. Piazza, S. Rossi"
+ },
+ "R34": {
+  "authors": [
+   "J. Zhang",
+   "K. Cai",
+   "J. Wen"
+  ],
+  "title": "A survey of deep learning applications in cryptocurrency",
+  "venue": "iScience",
+  "volume": "27",
+  "issue": "1",
+  "pages": "108509",
+  "year": 2024,
+  "doi": "10.1016/j.isci.2023.108509",
+  "ieee_authors": "J. Zhang, K. Cai, J. Wen"
+ },
+ "R35": {
+  "authors": [
+   "J. Li",
+   "T. Xie",
+   "Y. Liu"
+  ],
+  "title": "Game theory based incentive mechanism for a bi-tiered public blockchain system",
+  "venue": "Computer Networks",
+  "volume": "274",
+  "issue": "",
+  "pages": "111827",
+  "year": 2026,
+  "doi": "10.1016/j.comnet.2025.111827",
+  "ieee_authors": "J. Li, T. Xie, Y. Liu"
+ },
+ "R36": {
+  "authors": [
+   "N. T. Cam",
+   "V. T. Kiet"
+  ],
+  "title": "FlwrBC: Incentive Mechanism Design for Federated Learning by Using Blockchain",
+  "venue": "IEEE Access",
+  "volume": "11",
+  "issue": "",
+  "pages": "107855-107866",
+  "year": 2023,
+  "doi": "10.1109/ACCESS.2023.3320045",
+  "ieee_authors": "N. T. Cam, V. T. Kiet"
+ },
+ "R37": {
+  "authors": [
+   "A. Sokhankhosh",
+   "S. Rouhani"
+  ],
+  "title": "Proof-of-Collaborative-Learning: A Multi-winner Federated Learning Consensus Algorithm",
+  "venue": "2024 IEEE International Conference on Blockchain (Blockchain)",
+  "volume": "",
+  "issue": "",
+  "pages": "370-377",
+  "year": 2024,
+  "doi": "10.1109/BLOCKCHAIN62396.2024.00055",
+  "ieee_authors": "A. Sokhankhosh, S. Rouhani"
+ },
+ "R38": {
+  "authors": [
+   "M. Touloupou",
+   "M. Themistocleous",
+   "E. Iosif",
+   "K. Christodoulou"
+  ],
+  "title": "A Systematic Literature Review Toward a Blockchain Benchmarking Framework",
+  "venue": "IEEE Access",
+  "volume": "10",
+  "issue": "",
+  "pages": "70630-70644",
+  "year": 2022,
+  "doi": "10.1109/ACCESS.2022.3188123",
+  "ieee_authors": "M. Touloupou, M. Themistocleous, E. Iosif, K. Christodoulou"
+ }
+}
